@@ -55,4 +55,17 @@ public class HistorianHysteria
 
         return totalDifference;
     }
+
+    public int CalculateSimilarityScore(List<int> firstNumbers, List<int> secondNumbers)
+    {
+        int similarityScore = 0;
+
+        foreach (var number in firstNumbers)
+        {
+            int rightListCount = secondNumbers.FindAll(x => x == number).Count;
+            similarityScore += number * rightListCount;
+        }
+
+        return similarityScore;
+    }
 }
