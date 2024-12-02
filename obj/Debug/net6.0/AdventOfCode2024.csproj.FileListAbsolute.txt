@@ -1,0 +1,15 @@
+C:\Users\chase\Desktop\AdventOfCode2024\AdventOfCode2024\bin\Debug\net6.0\AdventOfCode2024.exe
+C:\Users\chase\Desktop\AdventOfCode2024\AdventOfCode2024\bin\Debug\net6.0\AdventOfCode2024.deps.json
+C:\Users\chase\Desktop\AdventOfCode2024\AdventOfCode2024\bin\Debug\net6.0\AdventOfCode2024.runtimeconfig.json
+C:\Users\chase\Desktop\AdventOfCode2024\AdventOfCode2024\bin\Debug\net6.0\AdventOfCode2024.dll
+C:\Users\chase\Desktop\AdventOfCode2024\AdventOfCode2024\bin\Debug\net6.0\AdventOfCode2024.pdb
+C:\Users\chase\Desktop\AdventOfCode2024\AdventOfCode2024\obj\Debug\net6.0\AdventOfCode2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chase\Desktop\AdventOfCode2024\AdventOfCode2024\obj\Debug\net6.0\AdventOfCode2024.AssemblyInfoInputs.cache
+C:\Users\chase\Desktop\AdventOfCode2024\AdventOfCode2024\obj\Debug\net6.0\AdventOfCode2024.AssemblyInfo.cs
+C:\Users\chase\Desktop\AdventOfCode2024\AdventOfCode2024\obj\Debug\net6.0\AdventOfCode2024.csproj.CoreCompileInputs.cache
+C:\Users\chase\Desktop\AdventOfCode2024\AdventOfCode2024\obj\Debug\net6.0\AdventOfCode2024.dll
+C:\Users\chase\Desktop\AdventOfCode2024\AdventOfCode2024\obj\Debug\net6.0\refint\AdventOfCode2024.dll
+C:\Users\chase\Desktop\AdventOfCode2024\AdventOfCode2024\obj\Debug\net6.0\AdventOfCode2024.pdb
+C:\Users\chase\Desktop\AdventOfCode2024\AdventOfCode2024\obj\Debug\net6.0\AdventOfCode2024.genruntimeconfig.cache
+C:\Users\chase\Desktop\AdventOfCode2024\AdventOfCode2024\obj\Debug\net6.0\ref\AdventOfCode2024.dll
+C:\Users\chase\Desktop\AdventOfCode2024\AdventOfCode2024\bin\Debug\net6.0\Day 1\Input.txt
