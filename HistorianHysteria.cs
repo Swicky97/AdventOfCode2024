@@ -1,18 +1,14 @@
-﻿using System;
-using System.IO;
-using System.Runtime.InteropServices;
-
-public class HistorianHysteria
+﻿public class HistorianHysteria
 {
     public HistorianHysteria()
     {
     }
 
-    List<int> firstNumbers = new List<int>();
-    List<int> secondNumbers = new List<int>();
-
     public (List<int> firstRow, List<int> secondRow) ParseAndSortFile(string filename)
     {
+        List<int> firstNumbers = new List<int>();
+        List<int> secondNumbers = new List<int>();
+
         string directory = Directory.GetParent(Directory.GetCurrentDirectory()).Parent.Parent.FullName;
 
         string fileName = "Input.txt";
@@ -44,6 +40,7 @@ public class HistorianHysteria
         return (firstNumbers, secondNumbers);
     }
 
+    // Part 1
     public int CalculateSumOfDifferences(List<int> firstNumbers, List<int> secondNumbers)
     {
         int totalDifference = 0;
@@ -56,6 +53,7 @@ public class HistorianHysteria
         return totalDifference;
     }
 
+    // Part 2
     public int CalculateSimilarityScore(List<int> firstNumbers, List<int> secondNumbers)
     {
         int similarityScore = 0;
