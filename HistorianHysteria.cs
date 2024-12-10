@@ -10,7 +10,6 @@
         List<int> secondNumbers = new List<int>();
 
         string directory = Directory.GetParent(Directory.GetCurrentDirectory()).Parent.Parent.FullName;
-
         string fileName = "Input.txt";
         string filePath = Path.Combine(directory, fileName);
 
